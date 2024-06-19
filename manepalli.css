@@ -1,0 +1,165 @@
+nav{
+    height: 50px;
+    width: 100%;
+    display: flex;   
+    flex-direction: row;
+    height: 50px;
+    width:  100%;
+    background-color: rgb(78, 79, 79);
+   
+}
+
+img{
+    margin-top: 5px;
+    margin-left: 20px;
+    height: 40px;
+    width: 70px;
+   display: flex;
+   flex-wrap: wrap;
+   margin-right: 70px;
+}
+
+.nav-item{
+    margin-left: 70px;
+    font-size: 25px;
+    margin-right: 50px;
+    margin-top: 5px;
+    color: white;
+}
+
+.navbar-nav{
+    margin-top: 6px;
+}
+
+.form-control{
+    height: 40px;
+    margin-top: 5px;
+    margin-left: 230px;
+}
+
+.btn {
+    height: 40px;
+    margin-top: 5px;
+    color: rgb(50, 55, 57);
+}
+
+.header{
+    height: 660px;
+    width: 1520px;
+    background-size: cover;
+}
+
+.header .text{
+    font-size: 50px;
+    padding-top: 100px;
+    font-style: oblique;
+    color: #b818e9;
+}
+
+.header .text2{
+    padding-top: 0%;
+    font-size: 30px;
+    color: #000000;
+}
+
+#aboutheading{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    font-size: 50px;
+}
+
+.aboutmain{
+  
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+   padding-right: 20px;
+}
+
+.aboutmain p{
+    margin-left: 20px;
+    font-size: 25px;
+
+}
+
+.about{
+    height: 500px;
+    width: 50%;
+}
+
+.row1{
+    display: flex;
+    flex-direction: row;
+    margin: 20px;
+   
+}
+
+.product{
+    height: 350px;
+    width: 320px;
+    border: 1px solid black;
+    margin: 20px;
+  background-color: antiquewhite;
+}
+
+.product h1{
+    margin-left: 20px;
+}
+
+.product img{
+    height: 180px;
+    width: 260px;
+}
+
+.product button{
+    height: 40px;
+    width: 100px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.row2{
+    display: flex;
+    flex-direction: row;
+    margin: 20px;
+   
+}
+
+.data{
+    font-size: 30px;
+}
+.customer{
+    height: 540px;
+    width: 45%;
+    margin-left: 40px;
+    border: 1px solid black;
+    padding-left: 60px;
+    margin-bottom: 30px;
+    padding-top: 50px;
+    margin-top: 20px;
+}
+footer{
+    background-color: rgb(54, 52, 52);
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+.contact{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 20px;
+}
+.contact .info1{
+    border: 1px solid black;
+    color: azure;
+    background-color:rgb(167, 72, 72);
+    margin-top: 70px;
+    margin-bottom: 100px;
+    margin-left:140px;
+    margin-right:0;
+    padding-right: 60px;
+    padding-left: 20px;
+   
+}
